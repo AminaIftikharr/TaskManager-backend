@@ -13,6 +13,7 @@ Welcome to the Task Manager API! This project serves as a robust backend solutio
 **RESTful API:** Follow RESTful principles to design a clean and intuitive API, making it easy for frontend applications to integrate and interact with the backend.
 
 **Getting Started**
+
 *Prerequisites*
 Make sure you have the following installed on your machine:
 
