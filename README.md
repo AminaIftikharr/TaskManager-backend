@@ -15,6 +15,9 @@ Welcome to the Task Manager API! This project serves as a robust backend solutio
 **Getting Started**
 *Prerequisites*
 Make sure you have the following installed on your machine:
+
 -Node.js
+
 -npm (Node Package Manager)
+
 -MongoDB
